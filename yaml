@@ -1,0 +1,14 @@
+
+---
+
+## 📤 Step 3: Upload It to GitHub
+
+Follow these exact steps:
+
+### ✅ 1. Initialize and Commit
+
+```bash
+cd image-processing-pipeline-opencv
+git init
+git add .
+git commit -m "Initial commit - Image Processing Pipeline by Sankul Dwivedi"
